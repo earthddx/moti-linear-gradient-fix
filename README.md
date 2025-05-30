@@ -1,3 +1,15 @@
+## FORKED TO FIX USECASES WHEN EXPO IS NOT USED:
+
+Replaced all instances of:
+
+`import { LinearGradient } from 'expo-linear-gradient'`
+
+with:
+
+`import { LinearGradient } from 'react-native-linear-gradient'`
+
+----------------------------------------------------------------------------
+
 <img src="/assets/banner2.png" />
 
 The universal React Native animation library, powered by Reanimated 3.
