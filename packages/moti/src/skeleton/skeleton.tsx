@@ -1,4 +1,4 @@
-import { LinearGradient } from 'expo-linear-gradient'
+import { LinearGradient } from 'react-native-linear-gradient'
 import React, { useState, createContext, useContext } from 'react'
 import { View, StyleSheet } from 'react-native'
 
