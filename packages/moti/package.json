@@ -1,6 +1,6 @@
 {
-  "name": "moti",
-  "description": "The universal React Native animation library, powered by Reanimated 3. 🦉",
+  "name": "moti-linear-gradient-fix",
+  "description": "Fork of moti with fixes: The universal React Native animation library, powered by Reanimated 3. 🦉",
   "version": "0.30.0",
   "keywords": [
     "react-native",
@@ -11,8 +11,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nandorojo/moti.git",
-    "directory": "packages/moti"
+    "url": "https://github.com/earthddx/moti-linear-gradient-fix.git",
+    "directory": "packages/moti-linear-gradient-fix"
   },
   "bugs": {
     "url": "https://github.com/nandorojo/moti/issues"
